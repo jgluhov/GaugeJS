@@ -1,0 +1,30 @@
+{
+  "name": "gaugejs",
+  "version": "1.0.0",
+  "description": "realization of gauge on javascript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgluhov/GaugeJS.git"
+  },
+  "keywords": [
+    "gauge"
+  ],
+  "author": "JGlukhov <jgluhov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgluhov/GaugeJS/issues"
+  },
+  "homepage": "https://github.com/jgluhov/GaugeJS#readme",
+  "devDependencies": {
+    "babel-core": "6.14.0",
+    "babel-loader": "6.2.5",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.14.0",
+    "babel-preset-es2015": "6.14.0",
+    "webpack": "1.13.2"
+  }
+}
